@@ -23,3 +23,5 @@ Each student should:
 ## Links
 
  - [Wadim, WebDev Student](./Wadim/md)
+ - [Sebastian, BDL Teacher](./Sebastian.md)
+ - [Michelle, WebDec Student](./michelle.md)
