@@ -22,6 +22,7 @@ Each student should:
 
 ## Links
 
+ - [Tijani sani](./TEEJAY.md)
  - [Wadim, WebDev Student](./Wadim.md)
  - [Michelle, WebDec Student](./michelle.md)
  - [Grzegorz, Webdec Student](./Grzegorz.md)
