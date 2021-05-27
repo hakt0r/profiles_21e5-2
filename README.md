@@ -28,4 +28,5 @@ Each student should:
  - [Benraiss, DCI Student](./benraiss.md)
  - [Michelle, WebDev Student](./michelle.md)
  - [Fabian, WebDev Student](./Fabian.md)
+ [Nour Eddin Alsabbagh](https://github.com/noureddinalsabbagh/profiles_21e5-2/blob/main/nour.md)
 
