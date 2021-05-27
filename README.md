@@ -29,5 +29,6 @@ Each student should:
  - [Ramazan](./ramazan.md)
  - [Benraiss, DCI Student](./benraiss.md)
  - [Fabian, WebDev Student](./Fabian.md)
+ [Nour Eddin Alsabbagh](https://github.com/noureddinalsabbagh/profiles_21e5-2/blob/main/nour.md)
 
  - [Sebastian, BDL Teacher](./Sebastian.md)
