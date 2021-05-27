@@ -22,11 +22,12 @@ Each student should:
 
 ## Links
 
- - [Wadim, WebDev Student](./Wadim.md)
- - [Michelle, WebDec Student](./michelle.md)
- - [Grzegorz, Webdec Student](./Grzegorz.md)
- - [Ramazan](./ramazan.md)
- - [Benraiss, DCI Student](./benraiss.md)
- - [Fabian, WebDev Student](./Fabian.md)
-
  - [Sebastian, BDL Teacher](./Sebastian.md)
+ - [Michelle, WebDec Student](./michelle.md)
+ - [Grzegorz, Webdec Student](./Grzegorz.md) 
+ 
+ Name: Grzegorz
+ City: Hamburg
+ Place: Earth
+ Experience: Commodore64
+ Expectings: New skills. A new profession
