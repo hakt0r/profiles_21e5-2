@@ -24,4 +24,10 @@ Each student should:
 
  - [Sebastian, BDL Teacher](./Sebastian.md)
  - [Michelle, WebDec Student](./michelle.md)
- - [Grzegorz, Webdec Student](./Grzegorz.md)
+ - [Grzegorz, Webdec Student](./Grzegorz.md) 
+ 
+ Name: Grzegorz
+ City: Hamburg
+ Place: Earth
+ Experience: Commodore64
+ Expectings: New skills. A new profession
