@@ -26,3 +26,4 @@ Each student should:
  - [Benraiss, DCI Student](./benraiss.md)
  - [Michelle, WebDev Student](./michelle.md)
  - [Fabian, WebDev Student](./Fabian.md)
+ - [Hamid](./Hamid.md)
