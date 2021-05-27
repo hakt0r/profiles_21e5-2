@@ -24,3 +24,7 @@ Each student should:
 
  - [Sebastian, BDL Teacher](./Sebastian.md)
  - [Ramazan](./ramazan.md)
+ - [Benraiss, DCI Student](./benraiss.md)
+ - [Michelle, WebDev Student](./michelle.md)
+ - [Fabian, WebDev Student](./Fabian.md)
+
